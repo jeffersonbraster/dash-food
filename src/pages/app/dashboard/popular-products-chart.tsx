@@ -1,4 +1,4 @@
-import { BarChart, LineChart } from 'lucide-react'
+import { BarChart } from 'lucide-react'
 import { Cell, Pie, PieChart, ResponsiveContainer } from 'recharts'
 import colors from 'tailwindcss/colors'
 
